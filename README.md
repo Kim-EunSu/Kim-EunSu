@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF3FB,100:E9BBDA)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFF3FB,100:FFDBF3)
 
 <!--
 **Kim-EunSu/Kim-EunSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
